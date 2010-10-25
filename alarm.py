@@ -14,7 +14,7 @@ reload(sys)
 sys.setdefaultencoding( "utf-8" )
 
 
-#~ Собсно плэйлист
+
 playlist = {
     't' : u"/media/a44432ae-d031-41f7-8187-02ffef0b8fa5/Enter Shikari (FLAC)/Take To The Skies/qiwitemp._flac_"
 	}
